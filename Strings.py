@@ -7,6 +7,7 @@ From freecodecamp bla bal bal
 print(message)
 print(course)
 print("The length is",len(course))
+print("new") 
 print(course[0])
 print(course[-1])
 print(course[0:3])
